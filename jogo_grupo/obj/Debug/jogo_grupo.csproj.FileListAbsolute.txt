@@ -1,0 +1,10 @@
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\bin\Debug\jogo_grupo.exe.config
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\bin\Debug\jogo_grupo.exe
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\bin\Debug\jogo_grupo.pdb
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.csproj.AssemblyReference.cache
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.Form1.resources
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.Properties.Resources.resources
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.csproj.GenerateResource.cache
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.exe
+C:\Users\eduardo.loliveira11\source\repos\jogo_grupo\jogo_grupo\obj\Debug\jogo_grupo.pdb
